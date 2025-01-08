@@ -13,4 +13,6 @@ whaddup dude!!!
 
 AAAAAAAA forgot mt message
 
+make a local commit but not sync
+
 ![logo](arquit.png)
